@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+  }
+  
+  .button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgb(195, 172, 193);
+    box-shadow: 2px 2px 11px rgb(0, 0, 0);
+  }
+  
+  .row {
+    margin: 8px 0;
+    color: aqua;
+  }
+  
+  .row input {
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+    padding: 8px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
